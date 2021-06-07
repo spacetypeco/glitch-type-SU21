@@ -22,8 +22,8 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| |Interactive piece <br> + Video Tutorials
-|2|TBD| | Grid-inspired composition <br> + Readings
-|3|TBD| | Static or kinetic typography composition<br> + Readings
+|2|TBD| | 
+|3|TBD| | 
 |4|Mini Project Presentation + TBD| |
 
 

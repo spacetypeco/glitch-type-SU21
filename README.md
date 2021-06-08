@@ -76,13 +76,17 @@ Class materials: Grid paper
 * [First Steps](https://creative-coding.decontextualize.com/first-steps/)
 * [Text and Type](https://creative-coding.decontextualize.com/text-and-type/)
 
+**Class Examples:**
+* [p5.js Collection](https://editor.p5js.org/kyeah/collections/1_JEsYCEw)
+
 **Official Documentation:**
 * [p5js.org/learn](https://p5js.org/learn/)
 
 ### Practical Javascript:
 
+* [Javascript in the browser console](https://creative-coding.decontextualize.com/browser-console/)
 * [Expressions, Variables, and Loops](https://creative-coding.decontextualize.com/expressions-variables-and-loops/)
-
+* [Just Javascript](https://justjavascript.com/)
 
 ### Programming: 
 (for those who like to learn conceptually)

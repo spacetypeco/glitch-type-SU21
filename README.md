@@ -86,7 +86,6 @@ Class materials: Grid paper
 
 * [Javascript in the browser console](https://creative-coding.decontextualize.com/browser-console/)
 * [Expressions, Variables, and Loops](https://creative-coding.decontextualize.com/expressions-variables-and-loops/)
-* [Just Javascript](https://justjavascript.com/)
 
 ### Programming: 
 (for those who like to learn conceptually)

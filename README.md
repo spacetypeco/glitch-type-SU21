@@ -21,7 +21,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
-|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| |Interactive piece <br> + Video Tutorials
+|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
 |2|TBD| | 
 |3|TBD| | 
 |4|Mini Project Presentation + TBD| |
@@ -46,6 +46,11 @@ Class materials: Grid paper
 - What is a Program?
 - How Do I JavaScript?
 - Anatomy of a p5.js sketch
+
+Visual References: 
+
+- [5 Core Programming Concepts](img/programming-blocks.png)
+- [Milk and Avocados](img/milk-and-avocados.png)
 
 ## ✏️ Week 1 Homework
 
@@ -75,9 +80,6 @@ Class materials: Grid paper
 **Text-based:** tutorials via Allison Parrish
 * [First Steps](https://creative-coding.decontextualize.com/first-steps/)
 * [Text and Type](https://creative-coding.decontextualize.com/text-and-type/)
-
-**Class Examples:**
-* [p5.js Collection](https://editor.p5js.org/kyeah/collections/1_JEsYCEw)
 
 **Official Documentation:**
 * [p5js.org/learn](https://p5js.org/learn/)

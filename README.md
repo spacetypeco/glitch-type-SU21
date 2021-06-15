@@ -22,7 +22,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
-|2|TBD| | 
+|2|Hello Glitch!| | 
 |3|TBD| | 
 |4|Mini Project Presentation + TBD| |
 
@@ -69,6 +69,26 @@ Visual References:
 * [Color by Coding Train](https://youtu.be/riiJTF5-N7c)
 * [Variables in p5.js(mouseX, mouseY) by Coding Train](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=0s)
 * [The random() Function by Coding Train](https://youtu.be/nfmV2kuQKwA)
+
+
+## ✏️ Week 2 Homework
+
+### Assignment
+* Create a sketch that's inspired by 'Glitch' (Recommend going through the readings below beforehand)
+
+### Reading
+
+* [FastCo: Inside The Bizarre Phenomenon Known As “Glitch Art”](https://www.fastcompany.com/3034296/inside-the-bizarre-phenomenon-known-as-glitch-art#:~:text=International%20artists%20that%20tinker%20heavily,D%20installation%2C%20or%20computer%20screen.)
+* [Glitch Aesthetics](https://loriemerson.net/2014/10/01/glitch-aesthetics/) by loriemerson
+
+### (Optional Video Tutorials for Beginners)
+Watch these video series by Coding Train (Daniel Shiffman)
+
+* [Else & Else if](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=17) 
+* [Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
+* [While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19) *highly recommend
+* [Nested For Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20) *highly recommend
+
 
 ## 📚 General Resources
 

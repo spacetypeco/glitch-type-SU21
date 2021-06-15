@@ -22,7 +22,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
-|2|Hello Glitch!| | 
+|2|[Hello Glitch!](#section-2-intro-to-glitch)| | 
 |3|TBD| | 
 |4|Mini Project Presentation + TBD| |
 
@@ -70,7 +70,7 @@ Visual References:
 * [Variables in p5.js(mouseX, mouseY) by Coding Train](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=0s)
 * [The random() Function by Coding Train](https://youtu.be/nfmV2kuQKwA)
 
-
+## Section 2: Intro to Glitch
 ## ✏️ Week 2 Homework
 
 ### Assignment

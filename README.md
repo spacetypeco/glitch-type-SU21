@@ -22,7 +22,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |Week|Topic| Sketch Links |Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
-|2|[Hello Glitch!](#section-2-intro-to-glitch)| | 
+|2|[Hello Glitch!](#section-2-intro-to-glitch)|[Sketches (loops and grid)](https://editor.p5js.org/kyeah/collections/M93qYCeRI) <br> [Live Class Examples](https://editor.p5js.org/kyeah/collections/CpANdGy6n) <br> [Class Tutorial](tutorials/2-grids-and-automation.md)| 
 |3|TBD| | 
 |4|Mini Project Presentation + TBD| |
 

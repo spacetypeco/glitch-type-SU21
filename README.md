@@ -23,7 +23,7 @@ During the course of four evenings, there will be weekly lectures and demonstrat
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)|[Sketches](https://editor.p5js.org/kyeah/collections/1_JEsYCEw) <br> [Class Tutorial](tutorials/1-programs-js-and-p5.md)|Interactive piece <br> + Video Tutorials
 |2|[Hello Glitch!](#section-2-intro-to-glitch)|[Sketches (loops and grid)](https://editor.p5js.org/kyeah/collections/M93qYCeRI) <br> [Live Class Examples](https://editor.p5js.org/kyeah/collections/CpANdGy6n) <br> [Class Tutorial](tutorials/2-grids-and-automation.md)| 
-|3|TBD| | 
+|3|Diving Deeper into p5.js| | 
 |4|Mini Project Presentation + TBD| |
 
 
@@ -88,6 +88,20 @@ Watch these video series by Coding Train (Daniel Shiffman)
 * [Boolean Variables](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=18)
 * [While and For Loops](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19) *highly recommend
 * [Nested For Loops](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20) *highly recommend
+
+## Section 3: Diving Deeper into p5.js
+## ✏️ Week 3 Homework
+
+### Assignment
+* (beginner): Create a sketch based off the demo sketch(es)
+* (intermediate+): Create a sketch utilizing a dataset (recommend grabbing one from [Corpora](https://github.com/dariusk/corpora))
+
+### (Optional Video Tutorials for Beginners)
+Watch these video series by Coding Train (Daniel Shiffman)
+
+* [What is an Array?](https://www.youtube.com/watch?v=VIQoUghHSxU&t=1s) 
+* [Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
+* [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58&t=2s) 
 
 
 ## 📚 General Resources
